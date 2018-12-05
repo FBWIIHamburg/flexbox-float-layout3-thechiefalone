@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+.header {
+    background-color: greenyellow;
+    min-height: 20vh;
+    float: left;
+}
+.content{
+    background-color: white;
+    min-height: 60vh;
+    float: left;
+}
+.article{
+    background-color: brown;
+    min-width: 60%;
+    min-height: 100%
+}
+.aside{
+    background-color: burlywood;
+    min-width: 20%;
+    min-height: 100%;
+}
+.nav{
+    background-color: blanchedalmond;
+    min-width: 20%;
+    min-height: 100%
+}
+.footer {
+    background-color: greenyellow;
+    min-height: 20vh;
+}
